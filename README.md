@@ -1,5 +1,5 @@
 ## Hi👋, I am Abhas Sharma
-I am a Sophomore at Bhagwan Parshuram Institute of Technology,GGSIPU based in Delhi pursuing Btech in CSE building connections with great minds and solving problems that serve the society
+I am a Btech Penultimate at Bhagwan Parshuram Institute of Technology,GGSIPU based in Delhi doing Computer Science and Engineering along building connections with great minds, solving problems that serve the society
 
 <!--
 **sabhas808922/sabhas808922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
